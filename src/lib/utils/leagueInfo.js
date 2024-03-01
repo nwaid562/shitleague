@@ -7,12 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the Shit League!</p>
+<p>As the fantasy football league gears up for the upcoming season, reflections on the previous year linger in the minds of the competitors. Nate W, the reigning champion, stands tall as the one to beat, with Joe L trailing closely behind as a consistent top performer. Nate S's overconfidence stemming from his previous success adds a layer of bravado to the mix. Nick W's delusional tendencies keep the league on edge, while Lanny's potential to shake things up remains a wildcard. Korey B's unpredictable nature leaves his future performance up in the air. The addition of quiet newcomer Brad M introduces an element of mystery, contrasting with Lanny's boisterous energy. Jedi H's full rebuild strategy, armed with an impressive array of roughly 100 picks, sets the stage for a season filled with anticipation, surprises, and fierce competition. The league is poised for another thrilling chapter in its fantasy football journey.</p>
+
 `;
 
 /*   STEP 3   */
